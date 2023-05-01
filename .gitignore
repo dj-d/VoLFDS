@@ -1,0 +1,19 @@
+# Python folders
+__pycache__/
+
+# VSCode folders
+.vscode/
+
+# Jetbrains
+.idea/
+
+# Script folders
+*outputs/
+*sequentializations/
+*tmp/
+*versions/
+
+# Other
+no_commit/
+test.py
+table.txt
